@@ -1,8 +1,9 @@
 package ams1_david_artero_estructures_repetitives;
 
 public class Ejercicio3 {
+
 	public static void main(String[] args) {
-		//variables
+		// TODO Auto-generated method stub
 		int bacterias=1, horas = 0, minutos = 0;
 		
 		//bucle
@@ -22,7 +23,7 @@ public class Ejercicio3 {
 		System.out.println("\n========= RESULTADO ========");
 		System.out.println("| Numero de horas: "+horas+"       |");
 		System.out.println("| Numero de Minutos: "+minutos+"    |");
-		System.out.println("============================");
-		
+		System.out.println("============================");	
 	}
+
 }
