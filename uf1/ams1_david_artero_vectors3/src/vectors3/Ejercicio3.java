@@ -56,7 +56,7 @@ public class Ejercicio3 {
 		}
 		
 		
-		for(i=0;i<2;i++){
+		for(i=0;i<7;i++){
 			if(votos[0]>votos[1] && votos[0]>votos[2]){
 				System.out.println("\nEl partido 1");	
 				System.out.println("votos "+votos[0]+" escaños: "+esc[0]);
@@ -81,7 +81,7 @@ public class Ejercicio3 {
 				System.out.println("votos "+votos[2]+" escaños: "+esc[2]);
 			}
 			
-			if(votos[0]==votos[1]||votos[0]==votos[2]||votos[1]==votos[2]){
+			else if(votos[0]==votos[1]||votos[0]==votos[2]||votos[1]==votos[2]){
 				System.out.println(":::::::Numeros iguales::::::");
 				if(votosAux[0]>votosAux[1] && votosAux[0]>votosAux[2]){
 					System.out.println("\nEl partido 1");

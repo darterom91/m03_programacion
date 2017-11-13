@@ -25,9 +25,12 @@ public class Ejercicio2 {
 		for (i = numero.length - 1; i > -1; i--) {
 			numero2[(numero.length - 1) - i] = numero[i];
 		}
+		
 		System.out.println();
+		
 		for (i = 0; i < numero.length; i++)
 			System.out.print(numero2[i] + " ");
+		
 		aux = N - 1;
 		for (i = 0; i < N; i++) {
 			res[i] = (int) Math.pow(base, aux - i);
