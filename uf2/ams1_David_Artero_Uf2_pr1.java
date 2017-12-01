@@ -518,15 +518,11 @@ public class ams1_David_Artero_Uf2_pr1 {
 		int num=0;
 		System.out.println("Introduce el numero: ");
 		num=introInt();
-		boolean bol = false;	
-        for (int i = 2; i <= num; i++) {
-
-            for (int j = 2; j <= Math.sqrt(i); j++) {
-                if (i % j == 0) {
-                	System.out.println("el valor: "+j);
-                }
-            }
-        }
+		for(int i=1;i<num;i++){
+			if(num%i==1){
+				System.out.println(i);
+			}
+		}
 	}
 
 	public static int introInt() {
