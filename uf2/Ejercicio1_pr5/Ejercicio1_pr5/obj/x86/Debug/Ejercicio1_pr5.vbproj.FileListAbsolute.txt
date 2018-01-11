@@ -1,0 +1,11 @@
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\bin\Debug\Ejercicio1_pr5.exe
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\bin\Debug\Ejercicio1_pr5.pdb
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\bin\Debug\Ejercicio1_pr5.xml
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.exe
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.xml
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.pdb
