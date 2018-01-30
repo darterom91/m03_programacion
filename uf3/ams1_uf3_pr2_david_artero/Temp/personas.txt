@@ -1,0 +1,5 @@
+David Artero 1234 26 1.7
+Diego Nadales 25 25 1.7
+Daniel Perez 1234 23 1.78
+Isaac Perez 1234 18 1.8
+fi
