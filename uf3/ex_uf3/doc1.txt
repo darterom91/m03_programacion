@@ -1,2 +1,0 @@
-nombre: Pedro
-apellido: 50
